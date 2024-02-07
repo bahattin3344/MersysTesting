@@ -13,10 +13,15 @@ In this project, some functions could not be tested due to technical problems ar
 
 Project Files
 -------------------
+Test User Storys
+-------------------
+[TR_test.mersys.io __ UserStories (2).xlsx](https://github.com/bahattin3344/MersysTesting/files/14200345/TR_test.mersys.io.__.UserStories.2.xlsx)
 
 REQUIREMENTS
 -----------------------------------------
 This project has been tested with the following systems and requirements:
+
+
 
 Operating systems
 Windows 11 & Windows 10
