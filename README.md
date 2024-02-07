@@ -1,4 +1,4 @@
-PROJECT NAME = Mersys Testing With Cucumber
+[Mersys.io Testing.postman_collection.json](https://github.com/bahattin3344/MersysTesting/files/14200307/Mersys.io.Testing.postman_collection.json)PROJECT NAME = Mersys Testing With Cucumber
 -----------------------------------------
 Project Description
 ------------------------------------------
@@ -144,6 +144,12 @@ This command will create a local copy of the project.
 4-Find the main test classes in the project and run that class (or methods) (lines with @test annotation). You can use the "Run" or "Debug" options of your development environment to run your project.
 
 5-Checking Results: Once the project runs successfully or you run your test cases, you can see the results in your development environment's console or your project's user interface.
+
+
+If you want the see postman codes you can use this code
+----------------------------------------------------------------
+https://api.postman.com/collections/30882436-b9309bb9-5060-4e01-af47-d84dad82b565?access_key=PMAT-01HP2EQJ6XKZ7CEY5F6D9VW4B7
+You will see with this manuel testing
 
 If you have any questions, feedback or support requests regarding my project, please contact us using one of the following contact methods:
 --------------------------------
